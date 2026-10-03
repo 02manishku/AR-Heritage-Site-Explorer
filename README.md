@@ -6,7 +6,7 @@ The **AR Heritage Site Explorer** is a Unity-based Augmented Reality (AR) projec
 
 ---
 
-## ✨ Features
+##  Features
 
 - 📱 **AR Visualization:** Place and explore 3D models of heritage sites in real-world space.  
 - 🏗️ **Interactive Manipulation:** Rotate, scale, and move monuments using touch gestures.  
